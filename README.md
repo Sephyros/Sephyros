@@ -18,8 +18,8 @@
 
 <div>
 <a href="https://github.com/AnaCosta29">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=sephyros&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sephyros&layout=compact&langs_count=5&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sephyros&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sephyros&layout=compact&langs_count=5&theme=dracula"/>
 </div>
   
 ##
